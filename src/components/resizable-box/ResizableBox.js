@@ -1,0 +1,7 @@
+
+
+
+const ResizableBox = () =>{
+
+    return(<>ResizableBox</>);
+};
