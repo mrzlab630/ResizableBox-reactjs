@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d14836b-9d57-4bb0-bcd9-7c6e620e36fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/preview.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResizableBox/ResizableBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resizable-box/ResizableBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resizable-box/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResizableBox/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563538441892</updated>
       <workItem from="1563538444134" duration="5923000" />
-      <workItem from="1572249156164" duration="1043000" />
+      <workItem from="1572249156164" duration="1369000" />
     </task>
     <servers />
   </component>
